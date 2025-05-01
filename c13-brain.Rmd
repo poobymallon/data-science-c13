@@ -1,10 +1,10 @@
 ---
-title: "brain"
-output: html_document
+title: "Traumatic Brain Injury"
+output: github_document
 date: "2025-04-28"
 ---
 
-## **QUESTION:** 
+## **QUESTION:**
 
 ## What age range receives the largest number of traumatic brain injuries?
 
@@ -110,7 +110,7 @@ tbi_year %>%
 
 ```
 
-### Observations: 
+### Observations:
 
 It seems that the highest rates come from injury mechanisms of unintentional falls and other blows to the head and motor vehicle crashes. In particular, the motor vehicle rates are high for people age 18-36, and unintentional fall rates are high for young and elderly people.
 
